@@ -1,6 +1,6 @@
 <div align="center">
   
-# What'up, I'm dockker!
+# What'up, I'm Mahax!
 
 <p>Development Student &nbsp|&nbsp Developer &nbsp|&nbsp Pawn and C++</p>
 
